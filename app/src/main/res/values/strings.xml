@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Laboratory1</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello to the Ihor Uchiha program</string>
+    <string name="name_template">Name: %1$s</string>
+    <string name="age_template">Age: %1$d</string>
+    <string name="description_template">Description: %1$s</string>
 </resources>
